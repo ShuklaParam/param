@@ -1,0 +1,31 @@
+#i1,#i2,#i3,#i4 {
+    text-align: center;
+    white-space:initial;
+    background-color: grey;
+ border-radius: 25px;
+ width: 100%;
+ padding: 100px;
+margin-top: 50px;
+ margin-bottom: 50px;
+}
+
+.h {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.rr {
+    background-color: rgb(123, 0, 255);
+    border-radius: 15px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(209, 240, 5, 0.944);
+    border-radius: 25px;
+ width: 100%;
+
+margin-top: 50px;
+ margin-bottom: 50px;
+}
